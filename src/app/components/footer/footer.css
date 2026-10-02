@@ -1,0 +1,10 @@
+.footer-link {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
