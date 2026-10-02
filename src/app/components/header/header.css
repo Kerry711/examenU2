@@ -1,0 +1,11 @@
+.navbar-brand {
+    font-size: 1.4rem;
+  }
+  
+  .nav-link {
+    transition: 0.3s;
+  }
+  
+  .nav-link:hover {
+    font-weight: bold;
+  }
