@@ -1,0 +1,36 @@
+.hero {
+  background: linear-gradient(
+    135deg,
+    #0d6efd,
+    #0a58ca
+  );
+
+  color: white;
+}
+
+.programa-card {
+  transition: transform 0.3s;
+}
+
+.programa-card:hover {
+  transform: translateY(-5px);
+}
+
+.docente-icon {
+  width: 65px;
+  height: 65px;
+
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+
+  background-color: #0d6efd;
+  color: white;
+
+  font-weight: bold;
+  font-size: 1.2rem;
+}
